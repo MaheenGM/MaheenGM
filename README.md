@@ -1,22 +1,22 @@
 # Maheen Ghulam Muhaammaad 👨‍💻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header&text=Maheen%20Ghulam&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00E5FF,100:7C3AED&height=180&section=header&text=Maheen%20Ghulam&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+beautiful+apps;Crafting+clean+interfaces;Turning+ideas+into+products;Always+shipping+forward" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+neon+digital+products;Designing+clean+product+experiences;Turning+ideas+into+real+apps;Shipping+with+clarity+and+style" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaheenGM&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MaheenGM&label=Profile%20Views&color=00E5FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ## Hero
 
 I’m a developer focused on building thoughtful digital experiences through Android apps, modern frontend design, and polished product thinking. I care about clarity, aesthetics, and solving real problems with code.
 
-## Core Stack
+## Neon Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -27,9 +27,27 @@ I’m a developer focused on building thoughtful digital experiences through And
 
 ## Featured Projects
 
-- KL App — a Korean learning Android application centered on lessons, vocabulary, and user progress
-- Frontend Website — a polished static site designed with a refined visual experience
-- Personal Projects — UI experiments and app ideas that sharpen product design and technical execution
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://placehold.co/600x320/0F172A/00E5FF?text=KL+App+Preview" width="280" alt="KL App preview" />
+        <br /><strong>KL App</strong>
+        <br />A Korean learning app with structured lessons, vocabulary practice, and progress tracking.
+      </td>
+      <td align="center">
+        <img src="https://placehold.co/600x320/0F172A/7C3AED?text=Frontend+Site" width="280" alt="Frontend site preview" />
+        <br /><strong>Frontend Website</strong>
+        <br />A polished static experience built with a premium visual direction and clear product flow.
+      </td>
+      <td align="center">
+        <img src="https://placehold.co/600x320/0F172A/FF4DDA?text=UI+Experiments" width="280" alt="UI experiments preview" />
+        <br /><strong>Personal Experiments</strong>
+        <br />UI ideas and product concepts that sharpen design thinking and fast execution.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## GitHub Analytics
 
