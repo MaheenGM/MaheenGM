@@ -38,18 +38,18 @@ I’m a developer focused on building thoughtful digital experiences through And
         <br />A Korean learning Android app with structured lessons, vocabulary practice, and progress tracking.
       </td>
       <td align="center">
-        <a href="https://github.com/MaheenGM/Unit-Converter">
+        <a href="https://github.com/MaheenGM/Unit-Converter-App">
           <img src="https://placehold.co/600x320/0F172A/7C3AED?text=Unit+Converter" width="280" alt="Unit Converter" />
         </a>
         <br /><strong><a href="https://github.com/MaheenGM/Unit-Converter">Unit Converter</a></strong>
         <br />A powerful utility for converting between multiple units and measurement systems.
       </td>
       <td align="center">
-        <a href="https://github.com/MaheenGM/Transcript-Attestation">
+        <a href="https://github.com/MaheenGM/transcript-attestation-verification-system">
           <img src="https://placehold.co/600x320/0F172A/FF4DDA?text=Transcript+Attestation" width="280" alt="Transcript Attestation" />
         </a>
         <br /><strong><a href="https://github.com/MaheenGM/Transcript-Attestation">Transcript Attestation</a></strong>
-        <br />A system for managing and attesting academic transcript records.
+        <br />A system for managing and attesting academic transcript records using custom SHA 256 and Blockchain technology.
       </td>
     </tr>
   </table>
