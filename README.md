@@ -31,19 +31,25 @@ I’m a developer focused on building thoughtful digital experiences through And
   <table>
     <tr>
       <td align="center">
-        <img src="https://placehold.co/600x320/0F172A/00E5FF?text=KL+App+Preview" width="280" alt="KL App preview" />
-        <br /><strong>KL App</strong>
-        <br />A Korean learning app with structured lessons, vocabulary practice, and progress tracking.
+        <a href="https://github.com/MaheenGM/KL">
+          <img src="https://placehold.co/600x320/0F172A/00E5FF?text=KL+App" width="280" alt="KL App" />
+        </a>
+        <br /><strong><a href="https://github.com/MaheenGM/KL">KL App</a></strong>
+        <br />A Korean learning Android app with structured lessons, vocabulary practice, and progress tracking.
       </td>
       <td align="center">
-        <img src="https://placehold.co/600x320/0F172A/7C3AED?text=Frontend+Site" width="280" alt="Frontend site preview" />
-        <br /><strong>Frontend Website</strong>
-        <br />A polished static experience built with a premium visual direction and clear product flow.
+        <a href="https://github.com/MaheenGM/Unit-Converter">
+          <img src="https://placehold.co/600x320/0F172A/7C3AED?text=Unit+Converter" width="280" alt="Unit Converter" />
+        </a>
+        <br /><strong><a href="https://github.com/MaheenGM/Unit-Converter">Unit Converter</a></strong>
+        <br />A powerful utility for converting between multiple units and measurement systems.
       </td>
       <td align="center">
-        <img src="https://placehold.co/600x320/0F172A/FF4DDA?text=UI+Experiments" width="280" alt="UI experiments preview" />
-        <br /><strong>Personal Experiments</strong>
-        <br />UI ideas and product concepts that sharpen design thinking and fast execution.
+        <a href="https://github.com/MaheenGM/Transcript-Attestation">
+          <img src="https://placehold.co/600x320/0F172A/FF4DDA?text=Transcript+Attestation" width="280" alt="Transcript Attestation" />
+        </a>
+        <br /><strong><a href="https://github.com/MaheenGM/Transcript-Attestation">Transcript Attestation</a></strong>
+        <br />A system for managing and attesting academic transcript records.
       </td>
     </tr>
   </table>
