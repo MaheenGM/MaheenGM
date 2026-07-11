@@ -1,6 +1,10 @@
 # Maheen Ghulam 👨‍💻
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2563EB&height=180&section=header&text=Maheen%20Ghulam&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Android+Developer;Frontend+Builder;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </p>
 
@@ -30,11 +34,15 @@ I build practical, user-focused digital products with a strong interest in Andro
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheenGM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaheenGM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheenGM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheenGM&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ## Currently Learning
@@ -46,4 +54,6 @@ I build practical, user-focused digital products with a strong interest in Andro
 ## Connect
 
 - GitHub: https://github.com/MaheenGM
-- Projects: Explore my repositories above
+- LinkedIn: https://www.linkedin.com/
+- Portfolio: https://github.com/MaheenGM
+- Email: maheen@example.com
