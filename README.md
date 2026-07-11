@@ -59,7 +59,7 @@ I’m a developer focused on building thoughtful digital experiences through And
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MaheenGM&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MaheenGM&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   </a>
 </p>
 
