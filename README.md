@@ -70,11 +70,6 @@ I’m a developer focused on building thoughtful digital experiences through And
   </a>
 </p>
 
-## Learning Focus
-
-- Advanced Android architecture
-- Better UI/UX systems
-- Scalable, production-ready software design
 
 ## Connect
 
