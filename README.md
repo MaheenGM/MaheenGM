@@ -32,21 +32,21 @@ I’m a developer focused on building thoughtful digital experiences through And
     <tr>
       <td align="center">
         <a href="https://github.com/MaheenGM/KL">
-          <img src="./assets/kl-steps.png" width="280" alt="KL App" />
+          <img src="./assets/kl-steps.jpeg" width="280" alt="KL App" />
         </a>
         <br /><strong><a href="https://github.com/MaheenGM/KL">KL App</a></strong>
         <br />A Korean learning Android app with structured lessons, vocabulary practice, and progress tracking.
       </td>
       <td align="center">
         <a href="https://github.com/MaheenGM/Unit-Converter-App">
-          <img src="./assets/unit-converter-tape.png" width="280" alt="Unit Converter App" />
+          <img src="./assets/unit-converter-tape.jpeg" width="280" alt="Unit Converter App" />
         </a>
         <br /><strong><a href="https://github.com/MaheenGM/Unit-Converter-App">Unit Converter App</a></strong>
         <br />A powerful utility for converting between multiple units and measurement systems.
       </td>
       <td align="center">
         <a href="https://github.com/MaheenGM/transcript-attestation-verification-system">
-          <img src="./assets/transcript-cube.png" width="280" alt="Transcript Attestation Verification" />
+          <img src="./assets/transcript-cube.jpeg" width="280" alt="Transcript Attestation Verification" />
         </a>
         <br /><strong><a href="https://github.com/MaheenGM/transcript-attestation-verification-system">Transcript Attestation</a></strong>
         <br />A verification system for managing and attesting academic transcript records.
