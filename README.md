@@ -39,17 +39,17 @@ I’m a developer focused on building thoughtful digital experiences through And
       </td>
       <td align="center">
         <a href="https://github.com/MaheenGM/Unit-Converter-App">
-          <img src="https://placehold.co/600x320/0F172A/7C3AED?text=Unit+Converter" width="280" alt="Unit Converter" />
+          <img src="https://placehold.co/600x320/0F172A/7C3AED?text=Unit+Converter" width="280" alt="Unit Converter App" />
         </a>
-        <br /><strong><a href="https://github.com/MaheenGM/Unit-Converter-App">Unit Converter</a></strong>
+        <br /><strong><a href="https://github.com/MaheenGM/Unit-Converter-App">Unit Converter App</a></strong>
         <br />A powerful utility for converting between multiple units and measurement systems.
       </td>
       <td align="center">
         <a href="https://github.com/MaheenGM/transcript-attestation-verification-system">
-          <img src="https://placehold.co/600x320/0F172A/FF4DDA?text=Transcript+Attestation" width="280" alt="Transcript Attestation" />
+          <img src="https://placehold.co/600x320/0F172A/FF4DDA?text=Transcript+Attestation" width="280" alt="Transcript Attestation Verification" />
         </a>
         <br /><strong><a href="https://github.com/MaheenGM/transcript-attestation-verification-system">Transcript Attestation</a></strong>
-        <br />A system for managing and attesting academic transcript records using custom SHA 256 and Blockchain technology.
+        <br />A verification system for managing and attesting academic transcript records.
       </td>
     </tr>
   </table>
@@ -58,15 +58,21 @@ I’m a developer focused on building thoughtful digital experiences through And
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheenGM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MaheenGM&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheenGM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheenGM&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheenGM&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheenGM&theme=dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+  </a>
 </p>
 
 ## Learning Focus
