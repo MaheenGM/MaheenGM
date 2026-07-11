@@ -1,4 +1,4 @@
-# Maheen Ghulam 👨‍💻
+# Maheen Ghulam Muhaammaad 👨‍💻
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2563EB&height=180&section=header&text=Maheen%20Ghulam&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Banner" />
@@ -45,15 +45,9 @@ I build practical, user-focused digital products with a strong interest in Andro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheenGM&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-## Currently Learning
-
-- Advanced Android app architecture
-- Better UI/UX principles
-- Clean, scalable software design
-
 ## Connect
 
 - GitHub: https://github.com/MaheenGM
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: https://www.linkedin.com/in/maheen-gm-627710336 
 - Portfolio: https://github.com/MaheenGM
-- Email: maheen@example.com
+- Email: imaheenghulam@example.com
